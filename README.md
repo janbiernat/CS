@@ -1,4 +1,4 @@
-# C#, C Sharp
+# C# (C Sharp)
 
 W tym dziale umieszczone są algorytmy napisane w języku C#.
 
